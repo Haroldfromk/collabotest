@@ -9,9 +9,13 @@ import Cocoa
 
 class ViewController: NSViewController {
 
+    var collabotest = ""
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
+        print(collabotest)
         // Do any additional setup after loading the view.
     }
 
@@ -21,6 +25,6 @@ class ViewController: NSViewController {
         }
     }
 
-
+    
 }
 
