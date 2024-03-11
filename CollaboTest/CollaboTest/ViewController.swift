@@ -16,6 +16,7 @@ class ViewController: NSViewController {
         super.viewDidLoad()
         
         print(collabotest)
+        print("test")
         // Do any additional setup after loading the view.
     }
 
